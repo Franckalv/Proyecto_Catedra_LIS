@@ -1,0 +1,62 @@
+ .star_content {
+      margin-bottom: 5px;
+      float: left;
+      width: 100%;
+  }
+  
+  .star {
+      overflow: hidden;
+      float: left;
+      margin: 0 1px 0 0;
+      width: 16px;
+      height: 18  px;
+      cursor: pointer;
+  }
+  
+  .star a {
+      display: block;
+      width: 100%;
+      background-position: 0 0;
+  }
+  
+  .star {
+      position: relative;
+      top: -1px;
+      float: left;
+      width: 14px;
+      overflow: hidden;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: normal;
+  }
+  
+  .star a {
+      display: block;
+      position: absolute;
+      text-indent: -5000px;
+  }
+  
+  div.star:after {
+      content: "\f006";
+      font-family: "FontAwesome";
+      display: inline-block;
+      color: #777676;
+  }
+  
+  div.star.star_on {
+      display: block;
+  }
+  
+  div.star.star_on:after {
+      content: "\f005";
+      font-family: "FontAwesome";
+      display: inline-block;
+      color: #ef8743;
+  }
+  
+  div.star.star_hover:after {
+      content: "\f005";
+      font-family: "FontAwesome";
+      display: inline-block;
+      color: #ef8743;
+  }

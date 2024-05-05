@@ -1,0 +1,106 @@
+
+.comments-container .row #container .card .card-body .username{
+    font-size: medium !important;
+    color: #000000!important;
+    padding-right: 3% !important;
+    font-weight: 800;
+}
+.timestamp{
+    font-size: x-small !important;
+    padding: 8px 0;
+}
+.comment{
+    color: d6d4d4;
+    font-size: medium;
+    font-display: just;
+}
+.username{
+    padding: 3px 0 0 0;
+    margin: 0px;
+}
+.card{
+    margin: 12px 0;
+    padding: 12px 0;
+}
+.img{
+    height: 85vh;
+}
+.row{
+    max-width: 98%;
+    padding-left: 5%;
+}
+.card-body{
+    display: inline-block;
+    padding: 0 3%;
+}
+#comment{
+    background-color: #e2dbdbcc !important;
+}
+strong{
+    font-weight: 1000 !important;
+}
+a{
+    color: blue;
+}
+a:visited{
+    color: blue;
+}
+.hide{
+    padding-top: 10px;
+}
+
+#commentsbox{
+    padding-left: 0;
+}
+input[type=submit]{
+    margin-top: 10px;
+}
+.alertify-notifier .ajs-message.ajs-error{
+    color: #FFF;
+}
+#commentsForm{
+    padding-bottom: 1%;
+}
+img{
+    width: 95%;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
+#description{
+    padding: 12px;
+    margin-left: 4vw;
+    max-width: 80vw;
+    font-size: 20px;
+    justify-content: center;
+}
+#rating{
+    padding: 1% 3%;
+}
+#content{
+    padding: 10px;
+    margin-left: 2vw;
+}
+
+/*Media queries para diseño responsive */
+@media only screen and (max-width: 600px) {
+    form{
+        padding-bottom: 10%;
+    }
+    .comments-container{
+        margin-bottom: 10%;
+    }
+  }
+
+  @media only screen and (max-width: 480px) {
+    form{
+        padding-bottom: 12%;
+    }
+    .btn{
+        width: 100%;
+    }
+    .comments-container{
+        margin-bottom: 15%;
+    }
+    
+  }
