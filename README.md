@@ -13,3 +13,4 @@ Link hacia el tablero de Trello:        https://trello.com/b/7Gz41O2X/elaboracio
 Link hacia los diseños de los Mock Ups: https://www.figma.com/file/CmRAWI9yv3kGnmoYIOZJ0T/Poryecto-LIS?type=design&node-id=0%3A1&mode=design&t=TKTZwwxR2oQesxYQ-1
 
 Licencias Creative Commons: Aplicación para el aprendizaje del idioma inglés © 2024 is licensed under CC BY-NC 4.0 
+Aplicación para el aprendizaje del idioma inglés © 2024 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
