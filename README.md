@@ -12,5 +12,5 @@ Link hacia el manual técnico:
 Link hacia el tablero de Trello:        https://trello.com/b/7Gz41O2X/elaboracion-del-proyecto-de-catedra
 Link hacia los diseños de los Mock Ups: https://www.figma.com/file/CmRAWI9yv3kGnmoYIOZJ0T/Poryecto-LIS?type=design&node-id=0%3A1&mode=design&t=TKTZwwxR2oQesxYQ-1
 
-Licencias Creative Commons: Aplicación para el aprendizaje del idioma inglés © 2024 is licensed under CC BY-NC 4.0 
-Aplicación para el aprendizaje del idioma inglés © 2024 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
+Aplicación para el aprendizaje del idioma inglés © 2024 is licensed under Creative Commons Attribution-NonCommercial 4.0 International  
+![image](https://github.com/Franckalv/Proyecto_Catedra_LIS/assets/78367187/79f1e421-f6ed-4da0-a973-c61e22dbd418)
