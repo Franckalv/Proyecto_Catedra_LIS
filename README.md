@@ -8,8 +8,11 @@ Colaboradores del proyecto:
 3. Francisco Javier Zaldaña Alvarez ZA210751
 
 Link hacia el manual de usuarios:
+
 Link hacia el manual técnico:
+
 Link hacia el tablero de Trello:        https://trello.com/b/7Gz41O2X/elaboracion-del-proyecto-de-catedra
+
 Link hacia los diseños de los Mock Ups: https://www.figma.com/file/CmRAWI9yv3kGnmoYIOZJ0T/Poryecto-LIS?type=design&node-id=0%3A1&mode=design&t=TKTZwwxR2oQesxYQ-1
 
 Aplicación para el aprendizaje del idioma inglés © 2024 is licensed under Creative Commons Attribution-NonCommercial 4.0 International
