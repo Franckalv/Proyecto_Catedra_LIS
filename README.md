@@ -7,13 +7,15 @@ Colaboradores del proyecto:
 2. José Roberto Doradea Herrera     DH211056
 3. Francisco Javier Zaldaña Alvarez ZA210751
 
-Link hacia el manual de usuarios:       https://shorturl.at/hMPU7
+- Link hacia el manual de usuarios:       https://shorturl.at/hMPU7
 
-Link hacia el manual técnico:           https://shorturl.at/hAHI3
+- Link hacia el manual técnico:           https://shorturl.at/hAHI3
 
-Link hacia el tablero de Trello:        https://shorturl.at/birDL
+- Link hacia el tablero de Trello:        https://shorturl.at/birDL
 
-Link hacia los diseños de los Mock Ups: https://shorturl.at/cpH37
+- Link hacia los diseños de los Mock Ups: https://shorturl.at/cpH37
+
+- Link hacia la grbación de la defensa del proyecto: 
 
 Aplicación para el aprendizaje del idioma inglés © 2024 is licensed under Creative Commons Attribution-NonCommercial 4.0 International
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
