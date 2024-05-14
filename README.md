@@ -15,7 +15,7 @@ Colaboradores del proyecto:
 
 - Link hacia los diseños de los Mock Ups: https://shorturl.at/cpH37
 
-- Link hacia la grbación de la defensa del proyecto: 
+- Link hacia la grbación de la defensa del proyecto: https://youtu.be/zRiywNPcm9g
 
 Aplicación para el aprendizaje del idioma inglés © 2024 is licensed under Creative Commons Attribution-NonCommercial 4.0 International
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
